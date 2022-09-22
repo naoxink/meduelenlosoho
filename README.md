@@ -15,3 +15,6 @@ Para añadir CSS y/o JS a un sitio web sólo tendremos que crear su/s correspond
 ```
 
 Después de cada modificación hay que recargar la extensión en Chrome. **No es necesario quitarla y volverla a añadir**, sólo recargarla.
+
+# Instalar extensión descomprimida (desarrolladores)
+https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
